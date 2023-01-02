@@ -21,5 +21,5 @@ Basic activities such as the sign in page, flashcard review page, and menu navig
 #### Main Menu Set
 ![Alt text](MainMenuSet.jpg?raw=true "")
 ## Showcase
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT]()]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=mN7u5PirROo) "App Showcase")
 
