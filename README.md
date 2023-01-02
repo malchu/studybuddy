@@ -22,5 +22,5 @@ Basic activities such as the sign in page, flashcard review page, and menu navig
 ![Alt text](MainMenuSet.jpg?raw=true "")
 ## Showcase
 Click the YouTube link below to watch the app showcase:<br />
-![YouTube Link](https://youtu.be/mN7u5PirROo)
+[YouTube Link](https://youtu.be/mN7u5PirROo)
 
