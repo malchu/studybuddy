@@ -1,3 +1,3 @@
 # studybuddy
-CMSC436 Android Final Group Project
+## CMSC436 Android Final Group Project
 
