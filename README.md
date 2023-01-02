@@ -11,6 +11,5 @@ The app will be saving a user’s flashcards to their account in a database. As 
 * A menu to navigate to either the flashcard maker or list of the user’s flashcards
 * The flashcard maker (back button included)
 * List of user’s flashcards (back button included)
-* Activity to review user’s flashcards (back button included)<br /><br />
-Basic activities such as the sign in page, flashcard review page, and menu navigator will rely on a Constraint Layout. Activities such as the flashcard maker and list of user’s flashcards will use a RecyclerView. There will be a layout for the flashcard in the flashcard viewer and another for the flashcards in the flashcard maker. There are no plans to utilize fragments. 
-Workload delegations are specified below
+* Activity to review user’s flashcards (back button included)<br />
+Basic activities such as the sign in page, flashcard review page, and menu navigator will rely on a Constraint Layout. Activities such as the flashcard maker and list of user’s flashcards will use a RecyclerView. There will be a layout for the flashcard in the flashcard viewer and another for the flashcards in the flashcard maker. There are no plans to utilize fragments. Workload delegations are specified below.
