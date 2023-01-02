@@ -16,7 +16,9 @@ The app will be saving a user’s flashcards to their account in a database. As 
 <!-- -->
 Basic activities such as the sign in page, flashcard review page, and menu navigator will rely on a Constraint Layout. Activities such as the flashcard maker and list of user’s flashcards will use a RecyclerView. There will be a layout for the flashcard in the flashcard viewer and another for the flashcards in the flashcard maker. There are no plans to utilize fragments. Workload delegations are specified below.
 ### Screenshots
+#### Flashcard Set
 ![Alt text](FlashcardSet.jpg?raw=true "")
+#### Main Menu Set
 ![Alt text](MainMenuSet.jpg?raw=true "")
 ## Showcase
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
